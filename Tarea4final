@@ -1,0 +1,91 @@
+﻿<html>
+	<head>
+		<style>
+			body{ background-color: #AED6F1; }
+		</style>
+	</head>
+	<body>
+		<div>
+			<div>
+				<img src="blackfriday.jfif" border="1" alt="BLACKFRIDAYWEEK"
+				width="1000" 
+				height="300">
+			</div>
+			<div>
+			<h1>
+				El reciente 29 de Noviembre, se celebró el mayor evento de descuentos del año. 
+			</h1>
+			<h2>
+				El 29 de noviembre se celebró el Black Friday 2019, el supesto único día en que son los mayores e incomparables descuentos y ofertas en grandes marcas comerciales, mas en realidad, las ofertas acaban por extenderse por una semana. Aunque es fácil tentarse a comprar muchas de las ofertas que están en los sitios webs de las tiendas, es recomendables seguir algunos consejos para aprovechar de mejor manera los días de asombrosos descuentos.
+			</h2>
+			<h3>
+				PRIMERO, es necesario hacer una comparación previa a la compra, ya sea en distintas marcas, tiendas, además de tener en consideración el precio que tuvo el producto el resto de los días del año. Según el monitoreo comercial de la Organización de Consumidores y Usuarios (OCU), revelan que aproximadamente, el 11% de los ofertas totales presentan bajas de precio significativas.
+			</h3>
+			<h3>
+				SEGUNDO, se sugiere instalaar las apps de las tiendas en las que tienes interés de comprar, ya que etas pueden lanzar ofertas repentinamente y puede resultar difícil enterarse de esa información, es por eso, que las aplicaciones móviles son buena opción, ya que generarán notificaciónes para que puedas acceder a conocer las ofertas que lancen en determinados productos.
+			</h3>
+			<h3>
+				TERCERO, es muy importante leer la letra chica de cada compra que pretendas concretar, ya que ahí es donde sales todos los detalles que intentar pasar desapercibidos, detalles que más adelante puedas lamentar. Es importante tener en cuenta la estimación del tiempo de despacho de la compra, ya que por norma legal, son 30 días posteriores al pago que tienes derecho a realizar cambios, con los terminos que establezca la tienda.
+			</h3>
+			<h3>
+				CUARTO, por último, los consejos que pueden sonar muy obvios pero no dejan de ser importantes. Debes verificar estar en el sitio oficial de la tienda en la que realizarás tu compra, además de corroborar que estas en un lugar seguro para realizar la transacción, en la parte superior, junto al URL de la página, se debería ver un candado, esto significa que la página que estas visitando es un sitio cifrado, por lo tanto, tus datos de cuenta y demases, estan seguros.
+			</h3>
+			</div>
+		</div>
+		<div>
+				<div>
+				<h2>
+					Amazon es la plataforma que más percibe compras en los súper días de descuentos, mencionaron que este 29 de noviembre, ha sido es diía en que mas se regrsitraron compras de la historia de la compañía. Pero ¿qué fue lo que más compró la gente?
+				</h2>
+				</div>
+						<div>
+						<h3>
+							En la siguiente tabla se muestran los 5 productos más comprados en Amazon en España
+						</h3>
+						</div>
+					<div>
+						<table style="width:55%">
+							<tr>
+								<th>Producto</th>
+								<th>Precio en €</th>
+								<th>% Descuento</th>
+								<th>Marca</th>
+							</tr>
+							<tr>
+								<td>Disco uro WD 4TB</td>
+								<td>91,49 </td>	
+								<td>64%</td>
+								<td>Western Digital</td>
+							</tr>
+							<tr>
+								<td>Echo Show 5</td>
+								<td>49,99</td>	
+								<td>44%</td>
+								<td>Amazon</td>
+							</tr>
+							<tr>
+								<td>Amazon Fire TV Stick</td>
+								<td>34,99</td>
+								<td>38%</td>
+								<td>Amazon</td>
+							</tr>
+							<tr>
+								<td>Oral B Pro 2</td>
+								<td>35</td>
+								<td>68%</td>
+								<td>Oral B</td>
+							</tr>
+							<tr>
+								<td>Echo Dot</td>
+								<td>22</td>
+								<td>63%</td>
+								<td>Amazon</td>
+							</tr>
+						</table>
+						<p> Fuente: https://www.businessinsider.es </p>
+						<br
+						
+						
+					</div>
+	</body>
+</html>
